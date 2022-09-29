@@ -7,9 +7,11 @@
 🗺 I make maps   
 📃 and research policy
 
-🏫 I've just finished a masters degree in applied data science and spatial analysis at NYU's [Center for Urban Science and Progress](https://cusp.nyu.edu)   
+🏫 I’ve just finished a master’s degree in applied data science and spatial analysis at NYU’s [Center for Urban Science and Progress](https://cusp.nyu.edu)   
 
-I want to use data analysis tools to solve city challenges through policy change.  
+🖼 Check out more of my work on my [portfolio](https://danlevine.work).
+
+
 
 
 
